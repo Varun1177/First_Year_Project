@@ -1,0 +1,280 @@
+Who is the father of C language?
+Steve Jobs
+James Gosling
+Dennis Ritchie
+Rasmus Lerdorf
+c
+
+Which of the following is not a valid C variable name?
+int number;
+float rate;
+int variable_count;
+int $main;
+d
+
+What is short int in C programming?
+The basic data type of C
+Qualifier
+Short is the qualifier and int is the basic data type
+All of the mentioned
+c
+
+Which keyword is used to prevent any changes in the variable within a C program?
+immutable
+mutable
+const
+volatile
+c
+
+What is the result of logical or relational expression in C?
+True or False
+0 or 1
+0 if an expression is false and any positive number if an expression is true
+None of the mentioned
+b
+
+Which of the following is NOT possible with any 2 operators in C?
+Different precedence, same associativity
+Different precedence, different associativity
+Same precedence, different associativity
+All of the mentioned
+c
+
+Functions in C Language are always _________
+Internal
+External
+Both Internal and External
+External and Internal are not valid terms for functions
+b
+
+Property which allows to produce different executable for different platforms in C is called?
+File inclusion
+Selective inclusion
+Conditional compilation
+Recursive macros
+c
+
+Which of the following are C preprocessors?
+#ifdef
+#define
+#endif
+all of the mentioned
+d
+
+The C-preprocessors are specified with _________ symbol.
+#
+$
+” ”
+&
+a
+
+How many number of pointer (*) does C have against a pointer variable declaration?
+7
+127
+255
+No limits
+d
+
+Which of the following is not possible statically in C language?
+Jagged Array
+Rectangular Array
+Cuboidal Array
+Multidimensional Array
+a
+
+The standard header _______ is used for variable list arguments (…) in C.
+<stdio.h >
+<stdlib.h>
+<math.h>
+<stdarg.h>
+d
+
+In C language, FILE is of which data type?
+int
+char *
+struct
+None of the mentioned
+c
+
+Which of the following is not an operator in C?
+,
+sizeof()
+~
+None of the mentioned
+d
+
+scanf() is a predefined function in______header file.
+stdlib. h
+ctype. h
+stdio. h
+stdarg. h
+c
+
+What is required in each C program?
+The program must have at least one function.
+The program does not require any function.
+Input data
+Output data
+a
+
+Which of the following comment is correct when a macro definition includes arguments?
+The opening parenthesis should immediately follow the macro name.
+There should be at least one blank between the macro name and the opening parenthesis.
+There should be only one blank between the macro name and the opening parenthesis.
+All the above comments are correct.
+a
+
+What is a lint?
+C compiler
+Interactive debugger
+Analyzing tool
+C interpreter
+c
+
+What is the output of this statement "printf("%d", (a++))"?
+The value of (a + 1)
+The current value of a
+Error message
+Garbage
+b
+
+Why is a macro used in place of a function?
+It reduces execution time.
+It reduces code size.
+It increases execution time.
+It increases code size.
+d
+
+In the C language, the constant is defined _______.
+Before main
+After main
+Anywhere, but starting on a new line.
+None of the these.
+c
+
+Which of the following best describes the ordering of destructor calls for stack-resident objects in a routine?
+The first object created is the first object destroyed; last created is last destroyed.
+The first object destroyed is the last object destroyed; last created is first destroyed.
+Objects are destroyed in the order they appear in memory, the object with the lowest memory address is destroyed first.
+The order is undefined and may vary from compiler to compiler.
+b
+
+Which of the following will copy the null-terminated string that is in array src into array dest?
+dest = src;
+dest == src;
+strcpy(dest, src);
+strcpy(src, dest);
+c
+
+In the statement "COUT << "javatpoint" << end1;", end1 is a ___.
+Extractor
+Inserter
+Manipulator
+Terminator
+c
+
+Each instance of a class has a different set of
+Class interfaces
+Methods
+Return types
+Attribute values
+d
+
+How many instances of a class can be declared?
+1
+10
+As per required
+None of the these
+c
+
+What is the maximum number of characters that can be held in the string variable char address line [40]?
+38
+39
+40
+41
+b
+
+A class D is derived from a class B, b is an object of class B, d is an object of class D, and pb is a pointer to class B object. Which of the following assignment statement is not valid?
+d = d;
+b = d;
+d = b;
+*pb = d:
+c
+
+Which of the following statement is not true?
+A pointer to an int and a pointer to a double are of the same size.
+A pointer must point to a data item on the heap (free store).
+A pointer can be reassigned to point to another data item.
+A pointer can point to an array.
+b
+
+Which of the following SLT template class is a container adaptor class?
+Stack
+List
+Deque
+Vector
+a
+
+What kinds of iterators can be used with vectors?
+Forward iterator
+Bi-directional iterator
+Random access iterator
+All of the above
+d
+
+Let p1 and p2 be integer pointers. Which one is a syntactically wrong statement?
+p1 = p1 + p2;
+p1 = p1 - 9;
+p2 = p2 + 9;
+cout << p1 - p2;
+a
+
+Which is valid expression in c language?
+int my_num = 100,000;
+int my_num = 100000;
+int my num = 1000;
+int my num == 10000;
+b
+
+If addition had higher precedence than multiplication, then the value of the expression (1 + 2 * 3 + 4 * 5) would be which of the following?
+27
+47
+69
+105
+d
+
+Which of these is NOT a relational or logical operator?
+=
+||
+==
+!=
+a
+
+Out of the following operations, which one is not possible in the case of a register variable?
+Global declaration of the register variable
+Copying the value from the memory variable
+Reading any value into the register variable
+All of the above
+d
+
+The correct format of declaring a function is:
+type_of_return name_of_function (argument type);
+type_of_return name_of_function (argument type){}
+type_of_return (argument type) name_of_function;
+all of the above
+a
+
+Comment on the C statement given below: int (*p)[5];
+A ragged array
+An array “p” of pointers
+A pointer “p” to an array
+None of the above
+c
+
+Determine what’s true for x, if we define x as “int *x[10];”?
+This definition will only allocate 10 pointers but will not initialize them
+The initialization must be explicitly performed
+The definition will only allocate 10 pointers but will not initialize them. Also, the initialization has to be explicitly performed
+Error
+c
+
