@@ -1,0 +1,288 @@
+Digitizer is categorized under which of the following category of devices?
+Permanent Memory
+Processing
+Temporary Memory
+Input
+d
+
+Which of the following hardware was used by the first generation computers?
+LSI
+valves
+SSi
+none of the above
+b
+
+The number of bits in an audio sample is called
+Bit depth
+Bit density
+Audio resolution
+Audio depth
+a
+
+Which one of the following is an impact printer and is commonly used for printing in applications like payroll and accounting?
+Plotter 
+Laser Printer
+Inkjet Printer
+Dot-matrix Printer
+d
+
+System software acts as a bridge between the hardware and _____ software?
+Management
+Processing
+Utility
+Application
+d
+
+MS Office, Photoshop and Animagic are examples of:
+Device driver
+Application software
+System software
+Operating system
+b
+
+The place where accessories are connected in computer is known as
+Port 
+Ring
+Bus
+Zip
+a
+
+Flash drive is popularly known as
+Microprocessor
+RAM
+ROM
+Pen drive
+d
+
+Which of the following are input devices?
+Monitor
+Printer
+Scanner
+Plotter
+c
+
+Auxiliary memory is popularly known as
+Primary Storage
+Secondary Storage
+Random Access Storage Device
+Processing Unit
+b
+
+A region of computer memory where frequently accessed data can be stored for rapid access is called: 
+Cache 
+Token
+Cookie
+Plug-in
+a
+
+Which of the following consists of an electronic writing area and a special ‘pen’ that works with it?
+Abacus
+Graphics Tablet
+Plotters
+Trackball
+b
+
+A _________ displays information in visual form, using text and graphics.
+Monitor
+Keyboard
+Printer
+CD
+a
+
+Any physical components of a computer system that we can see and touch is
+Software
+Peripheral device
+hardware
+CPU
+c
+
+The system unit that contains the most vital part of the personal computer is called
+CPU
+BIOS chip
+Motherboard
+Monitor
+c
+
+Which of the following is considered as the brain of the computer?
+Motherboard
+RAM
+CPU
+BIOS chip
+c
+
+Which of the following is primarily responsible for converting input (data) into meaningful output (information)?
+RAM
+CPU
+Storage device
+Input and Output device
+b
+
+Central Processing Unit in a computer consists of which major components?
+Arithmetic logic unit (ALU) and Control Unit
+Control Unit (CU)
+Registers
+ALU, Control Unit, and Registers
+d
+
+Which of the following component of CPU controls input/output devices, generate control signals to the other components of the computer such as read and write signals, and performs the execution of instruction?
+ALU
+Accumulator
+Control Unit
+Both a and c
+d
+
+Which among the following is the fastest memory in a computer that holds information?
+Register
+Cache
+Main memory
+RAM
+a
+
+Which of the following is temporary storage used to hold data that is used for arithmetic and logical operations and storing its results?
+ALU
+PC (Program counter)
+Accumulator
+IR (Instruction Register)
+c
+
+Which of the following is a permanent storage location within the CPU used to hold a binary value temporarily for manipulation, and/or for simple calculations?
+Main memory
+Secondary memory
+Register
+Both a and b
+c
+
+Which bus is used to carry data to and from the memory?
+Address bus
+Data bus
+Control bus
+None of these
+b
+
+Which register holds the address of the current instruction being executed?
+Instruction register
+Memory data register(MDR)
+Stack register
+Program counter
+d
+
+Which of the following register holds a data value that is being stored to or retrieved from the memory location?
+PSW
+Main memory
+Memory data register
+Cache register
+c
+
+A device that allows entering data and instruction into a computer system is called
+interaction
+terminal
+communication
+input
+d
+
+Which of the keys are also known as modifier keys?
+Shift
+Ctrl
+Alt
+All the above
+d
+
+Which keys are also known as toggle keys?
+Caps lock, Num lock
+Control key, Enter key
+Shift, Esc
+Both a and b
+a
+
+The first computer architecture was designed in
+1970
+1985
+1968
+1975
+a
+
+Which of the following is a temporary storage location attached to CPU for input and output operations?
+Memory chip
+Register
+Buffer
+Core
+c
+
+A uniform interval of CPU time allocated for performing a task is called
+real time
+seek time
+time slice
+unit time
+c
+
+Devices that accepts data from outside the computer and transfer into the CPU are called
+input devices
+digital devices
+analogue devices
+truth table peripherals
+a
+
+The Central Processing Unit (CPU) consists of
+control unit
+arithmetic and logic unit
+main store
+all of above
+d
+
+A source program is the program written in ____ language.
+English
+Symbolic
+High level
+Machine
+c
+
+The box that contains the central electronic components of the computer is the
+Input device
+Peripheral
+System unit
+Motherboard
+c
+
+A microprocessor used in
+Personal computer
+ENIAC
+Mini computer
+Mainframe computer
+a
+
+To locate a data item for storage is
+Fetch
+Field
+Feed
+Database
+a
+
+A device that is connected to the motherboard is ___
+must connect using ribbon cable
+called a peripheral device
+called an adjunct device
+called an external device
+b
+
+The indentations on CDs and DVDs are called
+Lands
+Tracks
+Clusters
+Pits
+b
+
+IRQ1 is commonly assigned to:
+it's usually open
+system timer
+real time clock
+Keyboard
+d
+
+Which of the following is not a type of motherboard expansion slot?
+ISA
+PCI
+AGP
+ATX
+d
+
+ 
