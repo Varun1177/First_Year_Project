@@ -26,7 +26,6 @@ private:
     char correct_answer;
 };
 
-void PrintArt(std::ifstream myfile);
 void InititializeQuizGame(std::ifstream data);
 void load(std::istream& is, std::vector<Question>& questions);
 void Shuffle(std::vector<Question>& questions);
@@ -362,7 +361,7 @@ void displayFileContent(const std::string& filename) {
 
     system("CLS");
 
-    std::ifstream file(filename); // Open the file for reading
+    std::ifstream file(filename);
 
     if (!file) {
         std::cout << "Failed to open the file." << std::endl;
@@ -374,16 +373,7 @@ void displayFileContent(const std::string& filename) {
         std::cout << line << std::endl;
     }
 
-    // Sleep(5000);
-
-    file.close(); // Close the file
-
-    // main();
-}
-
-void PositionCursor()
-{
-    std::cout << std::string(10, '\n');
+    file.close(); 
 }
 
 void reset(const std::string& filename)
